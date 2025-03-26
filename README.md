@@ -7,6 +7,7 @@ This project analyzes the Apple greenhouse gas (GHG) emissions in years 2015-202
     Carbon Footprint by Product: Details product-specific carbon footprints.
 
 The data comes from [Maven Analytics Apple's Greenhouse Gas Emissions Challenge](https://mavenanalytics.io/challenges/maven-environmental-challenge/ec3b9855-923d-4647-ac7a-c6ded422b2b7)
+I used MS-SQL server and imported the data in .csv format to a database in my local machine.
 
 # 2. Key Performance Indicators (KPIs)
 
